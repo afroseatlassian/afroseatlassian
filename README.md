@@ -49,28 +49,59 @@ Senior Jira / Atlassian Administrator with **5+ years** running Jira Cloud, Jira
 <tr>
 <td width="50%" valign="top">
 
-**☁️ Jira DC → Cloud Migration**
-`JCMA` `CCMA` `1,800+ users` `40+ projects`
+<img src="https://img.shields.io/badge/☁️%20Jira%20DC%20→%20Cloud%20Migration-000000?style=for-the-badge&logoColor=FFDD00"/>
+<br>
+<img src="https://img.shields.io/badge/JCMA-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/CCMA-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/1%2C800%2B%20users-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/40%2B%20projects-111111?style=flat-square&logoColor=FFDD00"/>
+<br>
 Discovery → test migration → UAT → cutover → hypercare.
 
-**🔗 Jira ↔ ServiceNow**
-`REST API` `Webhooks` `Bi-directional sync`
+<br>
+
+<img src="https://img.shields.io/badge/🔗%20Jira%20↔%20ServiceNow-000000?style=for-the-badge&logoColor=FFDD00"/>
+<br>
+<img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Webhooks-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Bi--directional%20sync-111111?style=flat-square&logoColor=FFDD00"/>
+<br>
 Field and status mapping for incident/service management.
 
 </td>
 <td width="50%" valign="top">
 
-**🧪 Xray & Zephyr Test Management**
-`Test plans` `Traceability` `Release readiness`
+<img src="https://img.shields.io/badge/🧪%20Xray%20%26%20Zephyr%20Testing-000000?style=for-the-badge&logoColor=FFDD00"/>
+<br>
+<img src="https://img.shields.io/badge/Test%20plans-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Traceability-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Release%20readiness-111111?style=flat-square&logoColor=FFDD00"/>
+<br>
 End-to-end QA execution tracking and reporting.
 
-**📊 20+ Dashboards**
-`Jira` `Power BI` `eazyBI`
+<br>
+
+<img src="https://img.shields.io/badge/📊%2020%2B%20Dashboards-000000?style=for-the-badge&logoColor=FFDD00"/>
+<br>
+<img src="https://img.shields.io/badge/Jira-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/eazyBI-111111?style=flat-square&logoColor=FFDD00"/>
+<br>
 Delivery, workload, defects, SLA and KPI reporting.
 
 </td>
 </tr>
 </table>
+
+## Dashboard samples
+
+<div align="center">
+<sub>Illustrative examples in the style of dashboards described in my resume — sample data, not client data.</sub>
+<br><br>
+<img width="90%" src="./assets/dashboard-delivery-sla.png"/>
+<br><br>
+<img width="90%" src="./assets/dashboard-qa-defects.png"/>
+</div>
 
 ## Certifications
 
