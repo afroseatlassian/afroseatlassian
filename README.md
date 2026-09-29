@@ -1,14 +1,21 @@
-<img src="https://github.com/afroseatlassian.png" width="120" height="120" style="border-radius:50%" align="left"/>
+<div align="center">
 
-## Hi there, I'm Md Afrose 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F9EFF,100:0D1117&height=200&section=header&text=Md%20Afrose&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Jira%20%2F%20Atlassian%20Administrator&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-**Senior Jira / Atlassian Administrator** · he/him
-<br>
-📍 Hyderabad, Telangana, India &nbsp;·&nbsp; ✉️ afrose.atlassian@outlook.com &nbsp;·&nbsp; 🔗 [linkedin.com/in/atlassianafrose](https://www.linkedin.com/in/atlassianafrose)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F9EFF&background=0D1117&center=true&vCenter=true&width=600&height=40&lines=Jira+Cloud+%26+Data+Center+Administrator;JSM+%7C+Confluence+%7C+ScriptRunner+(Groovy);DC+%E2%86%92+Cloud+Migration+(JCMA%2FCCMA);Power+BI+%26+eazyBI+Dashboards"/>
 
-I administer Jira Cloud, Jira Data Center, JSM and Confluence for 2,000+ users across 150+ projects, and I'm passionate about clean workflow design, automation, and turning messy ITSM processes into governed, scalable systems.
+<br><br>
 
-<br clear="left"/>
+<a href="https://www.linkedin.com/in/atlassianafrose"><img height="36" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1F9EFF"/></a>
+<a href="mailto:afrose.atlassian@outlook.com"><img height="36" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=1F9EFF"/></a>
+<a href="tel:+919030902108"><img height="36" src="https://img.shields.io/badge/Call-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
+<img height="36" src="https://img.shields.io/badge/Hyderabad%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FF5C5C"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=afroseatlassian&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117"/>
+
+</div>
 
 ---
 
