@@ -1,67 +1,75 @@
 <div align="center">
+<img src="https://github.com/afroseatlassian.png" width="110" style="border-radius:50%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F9EFF,100:0D1117&height=190&section=header&text=Md%20Afrose&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Jira%20%2F%20Atlassian%20Administrator&descAlignY=56&descSize=17&animation=fadeIn"/>
+# Md Afrose
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F9EFF&background=0D1117&center=true&vCenter=true&width=600&height=35&lines=Jira+Cloud+%26+Data+Center+Administrator;JSM+%7C+Confluence+%7C+ScriptRunner+(Groovy);DC+%E2%86%92+Cloud+Migration+(JCMA%2FCCMA);Power+BI+%26+eazyBI+Dashboards"/>
+**Senior Jira / Atlassian Administrator**
+📍 Hyderabad, India &nbsp;·&nbsp; ✉️ [afrose.atlassian@outlook.com](mailto:afrose.atlassian@outlook.com) &nbsp;·&nbsp; 🔗 [linkedin.com/in/atlassianafrose](https://www.linkedin.com/in/atlassianafrose)
 
-<a href="https://www.linkedin.com/in/atlassianafrose"><img height="34" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1F9EFF"/></a>
-<a href="mailto:afrose.atlassian@outlook.com"><img height="34" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=1F9EFF"/></a>
-<a href="tel:+919030902108"><img height="34" src="https://img.shields.io/badge/Call-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
-<img height="34" src="https://img.shields.io/badge/Hyderabad%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FF5C5C"/>
-
-<img src="https://komarev.com/ghpvc/?username=afroseatlassian&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=FFDD00"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=1F9EFF&center=true&vCenter=true&width=560&lines=Jira+Cloud+%26+Data+Center+Administrator;JSM+%7C+Confluence+%7C+ScriptRunner+(Groovy);DC+%E2%86%92+Cloud+Migration+(JCMA%2FCCMA);Power+BI+%26+eazyBI+Dashboards"/>
 
 </div>
 
 <br>
 
-<div align="center">
-<img width="94%" src="./assets/about-card.png"/>
-</div>
+## About me
 
-<br>
+Senior Jira / Atlassian Administrator with **5+ years** running Jira Cloud, Jira Data Center, JSM and Confluence for **2,000+ users across 150+ projects**.
 
-<div align="center">
-<img width="94%" src="./assets/tools-card.png"/>
-</div>
+| | |
+|---|---|
+| 🔧 | Jira/JSM administration, ITSM, workflows, Automation, Assets/CMDB, permissions, custom fields |
+| ☁️ | Led **Jira Data Center → Cloud migration** for 1,800+ users, 40+ projects, using **JCMA & CCMA** |
+| 📊 | Built **20+ active Jira, Power BI & eazyBI dashboards** for PMO, QA, SLA and management reporting |
+| 🧩 | Wrote and maintain **60+ ScriptRunner (Groovy)** scripts for validations, transitions, bulk updates |
+| 🔌 | Integrated Jira with **GitHub, Jenkins, Bitbucket, Bamboo & ServiceNow** |
+| 📉 | Process improvements → **~40% reduction in incident resolution time** |
 
-<br>
+## Tools I work with
+
+**Atlassian:** Jira Cloud · JSM · Confluence · Jira Data Center · ScriptRunner (Groovy) · Xray · Zephyr · JMWE
+**Automation & Identity:** REST API · Webhooks · SAML/SCIM/SSO · Entra ID · Okta · Jenkins · Bitbucket · Bamboo
+**Reporting & AI:** Power BI · eazyBI · ServiceNow · ChatGPT · Claude · Atlassian Intelligence · Rovo
 
 ## What I've worked on
 
+> **Jira DC → Cloud Migration** — `JCMA` `CCMA` `1,800+ users` `40+ projects`
+> Discovery, test migration, UAT, cutover and hypercare.
+
+> **Jira ↔ ServiceNow Integration** — `REST API` `Webhooks` `Bi-directional sync`
+> Field and status mapping for incident/service management.
+
+> **Xray & Zephyr Test Management** — `Test plans` `Traceability` `Release readiness`
+> End-to-end QA execution tracking and reporting.
+
+> **20+ Dashboards** — `Jira` `Power BI` `eazyBI`
+> Delivery, workload, defects, SLA and KPI reporting.
+
+## Certifications & courses
+
+- Atlassian Rovo Fundamentals (ACH-800-NP) · Atlassian Forge Fundamentals (ACH-805-NP)
+- Certified ScrumMaster (CSM) — Scrum Alliance · ServiceNow Certified System Administrator (CSA)
+- ACP-100 Jira Data Center Admin · ACP-120 Jira Cloud Admin · ACP-420 JSM Admin
+
+## Education
+
+**Master of Business Administration — Finance**, Aurobindo College of Business Management, Osmania University, Hyderabad — 2013
+
+<br>
+
 <div align="center">
-<img width="94%" src="./assets/work-grid.png"/>
+
+### GitHub stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=afroseatlassian&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afroseatlassian&theme=radical&hide_border=true"/>
+
 </div>
 
 <br>
 
-## Dashboard samples
-
-<div align="center">
-<sub>Illustrative examples in the style of dashboards described in my resume — sample data, not client data.</sub>
-<br><br>
-<img width="94%" src="./assets/dashboard-delivery-sla.png"/>
-<br><br>
-<img width="94%" src="./assets/dashboard-qa-defects.png"/>
-</div>
-
-<br>
-
-<div align="center">
-<img width="94%" src="./assets/certifications-card.png"/>
-</div>
-
-<br>
-
-## GitHub stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=afroseatlassian&show_icons=true&theme=cyberpunk&hide_border=true&title_color=FFDD00&icon_color=FFDD00&text_color=c9d1d9&bg_color=000000"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afroseatlassian&theme=highcontrast&hide_border=true&background=000000&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakLabel=FFDD00"/>
+📍 Hyderabad, India &nbsp;|&nbsp; Open to office, hybrid or remote &nbsp;|&nbsp; Open to Jira Cloud Admin roles
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F9EFF,100:0D1117&height=90&section=footer"/>
 </div>
